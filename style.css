@@ -17,3 +17,22 @@ iframe{
 p{
     display: none;
 }
+
+
+@media screen and (min-width:300px){
+    #cat{
+        display: inline;
+    } 
+}
+
+@media screen and (device-aspect-ratio: 3/4 ){
+    p{
+        display: inline;
+    }
+}
+
+@media screen and (max-width:500px){
+    iframe{
+        display: inline;
+    } 
+}
