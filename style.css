@@ -1,0 +1,19 @@
+p{
+    color: blue;
+}
+
+iframe{
+    width:100px;
+    height:100px;
+    display: none;
+}
+
+#cat{
+    width: 100px;
+    height:100px ;
+    display: none;
+}
+
+p{
+    display: none;
+}
